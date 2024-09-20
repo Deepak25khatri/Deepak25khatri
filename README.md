@@ -34,5 +34,6 @@
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Deepak25khatri&theme=holi&no-frame=false&no-bg=true&margin-w=4)
-
+# 🪄 Open Source Contribution:
+[![An image of @deepak25khatri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deepak25khatri)](https://holopin.io/@deepak25khatri)
 
