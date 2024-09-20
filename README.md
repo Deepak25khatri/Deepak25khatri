@@ -1,6 +1,6 @@
-<h1 align='center'>Hello I'm Samarth Motka </h1>
+<h1 align='center'>Hello I'm Deepak khatri </h1>
 
-<p align="center"><img src="[[https://res.cloudinary.com/da5crwlqh/image/upload/v1720416379/african-american-web-developer-flat-line-black-white-vector-character-editable-outline-half-body-man-working-laptop-simple-cartoon-isolated-spot-illustration-web-graphic-design_151150-17618-removebg-p_v0ia1i.png" alt="man-illustration](https://static.vecteezy.com/system/resources/previews/011/007/140/large_2x/boy-standing-holding-laptop-and-celebrating-victory-while-looking-at-laptop-screen-3d-render-character-illustration-free-png.png)" width="210" height="200"](https://static.vecteezy.com/system/resources/thumbnails/011/006/187/small/boy-standing-holding-laptop-with-left-hand-and-raising-finger-up-gets-an-idea-3d-render-character-illustration-free-png.png) ></p>
+<p align="center"><img src="https://static.vecteezy.com/system/resources/previews/011/007/140/large_2x/boy-standing-holding-laptop-and-celebrating-victory-while-looking-at-laptop-screen-3d-render-character-illustration-free-png.png" alt="man-illustration" width="210" height="200" ></p>
 💫 About Me:
 <br>
 🔭 I’m currently working on a project related to Text Classification Machine Learning<br>👯 I’m looking to collaborate on ML and Full Stack projects.<br>🌱 I’m currently learning Full Stack.<br>📄 I'm reader.<br>
@@ -29,7 +29,7 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Deepak25khatri&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak25khatria&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak25khatri&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
